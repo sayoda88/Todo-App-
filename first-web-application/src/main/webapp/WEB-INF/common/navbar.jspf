@@ -1,0 +1,13 @@
+	<nav class="navbar navbar-default">
+
+		<a href="/" class="navbar-brand">Todo</a>
+
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="#">Home</a></li>
+			<li><a href="/first-webapp/list-todo.do">Todos</a></li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="/first-webapp/logout.do">Logout</a></li>
+		</ul>
+
+	</nav>
